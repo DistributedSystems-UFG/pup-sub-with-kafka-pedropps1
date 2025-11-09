@@ -64,6 +64,7 @@ O uso é similar a um cliente de IRC:
 
 **4. Encerrar o Servidor Kafka**
 
-Quando terminar os testes, você pode parar e remover os serviços do Kafka para liberar recursos com o comando:```bash
+Quando terminar os testes, você pode parar e remover os serviços do Kafka para liberar recursos com o comando:
+```bash
 docker-compose down
 ```
