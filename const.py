@@ -1,2 +1,2 @@
-BROKER_ADDR = '172.31.91.151'
+BROKER_ADDR = 'localhost'
 BROKER_PORT = '9092'
